@@ -20,6 +20,7 @@ function NavBar() {
             alignItems: "center",
             marginBottom: ww(20),
             marginTop: ww(50),
+            width: ww(120),
           }}
         >
           <img
@@ -39,6 +40,7 @@ function NavBar() {
             flexDirection: "row",
             alignItems: "center",
             marginBottom: ww(20),
+            width: ww(120),
           }}
         >
           <img
@@ -62,6 +64,7 @@ function NavBar() {
             flexDirection: "row",
             alignItems: "center",
             marginBottom: ww(20),
+            width: ww(120),
           }}
         >
           <img
@@ -85,6 +88,7 @@ function NavBar() {
             flexDirection: "row",
             alignItems: "center",
             marginBottom: ww(20),
+            width: ww(120),
           }}
         >
           <img
@@ -108,6 +112,7 @@ function NavBar() {
             flexDirection: "row",
             alignItems: "center",
             marginBottom: ww(20),
+            width: ww(120),
           }}
         >
           <img
@@ -131,6 +136,7 @@ function NavBar() {
             flexDirection: "row",
             alignItems: "center",
             marginBottom: ww(20),
+            width: ww(120),
           }}
         >
           <img
@@ -154,6 +160,7 @@ function NavBar() {
             flexDirection: "row",
             alignItems: "center",
             marginBottom: ww(20),
+            width: ww(120),
           }}
         >
           <img
