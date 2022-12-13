@@ -8,7 +8,7 @@ function AppContent() {
   return (
     <div
       style={{
-        paddingTop: ww(100),
+        //paddingTop: ww(100),
         backgroundColor: "#eeeef5",
         width: ww("100%"),
         height: ww(800),

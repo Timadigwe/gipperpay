@@ -6,9 +6,10 @@ function NavBar() {
   return (
     <div
       style={{
-        paddingTop: ww(200),
-        width: 350,
+        //paddingTop: ww(200),
+        width: ww(200),
         height: "100vh",
+        margin: "auto",
       }}
     >
       <div>
@@ -17,9 +18,8 @@ function NavBar() {
             display: "flex",
             flexDirection: "row",
             alignItems: "center",
-            marginLeft: ww(80),
-            marginRight: ww(80),
             marginBottom: ww(20),
+            marginTop: ww(50),
           }}
         >
           <img
@@ -38,7 +38,6 @@ function NavBar() {
             display: "flex",
             flexDirection: "row",
             alignItems: "center",
-            marginLeft: ww(80),
             marginBottom: ww(20),
           }}
         >
@@ -62,7 +61,6 @@ function NavBar() {
             display: "flex",
             flexDirection: "row",
             alignItems: "center",
-            marginLeft: ww(80),
             marginBottom: ww(20),
           }}
         >
@@ -86,7 +84,6 @@ function NavBar() {
             display: "flex",
             flexDirection: "row",
             alignItems: "center",
-            marginLeft: ww(80),
             marginBottom: ww(20),
           }}
         >
@@ -110,7 +107,6 @@ function NavBar() {
             display: "flex",
             flexDirection: "row",
             alignItems: "center",
-            marginLeft: ww(80),
             marginBottom: ww(20),
           }}
         >
@@ -134,7 +130,6 @@ function NavBar() {
             display: "flex",
             flexDirection: "row",
             alignItems: "center",
-            marginLeft: ww(80),
             marginBottom: ww(20),
           }}
         >
@@ -158,7 +153,6 @@ function NavBar() {
             display: "flex",
             flexDirection: "row",
             alignItems: "center",
-            marginLeft: ww(80),
             marginBottom: ww(20),
           }}
         >
