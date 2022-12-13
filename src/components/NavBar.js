@@ -18,6 +18,7 @@ function NavBar() {
             flexDirection: "row",
             alignItems: "center",
             marginLeft: ww(80),
+            marginRight: ww(80),
             marginBottom: ww(20),
           }}
         >
